@@ -3,7 +3,7 @@
 	"version": "0.0.2",
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
-	"repository": "arnaud-zad/tsconfig",
+	"repository": "arnauduanra/tsconfig",
 	"files": [
 		"node12.json",
 		"preact.json"
