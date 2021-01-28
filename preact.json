@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/tsconfig",
+  "display": "Node 12",
+  "compilerOptions": {
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "moduleResolution": "node", 
+      "esModuleInterop": true,
+      "module": "ESNext", 
+      "target": "ES5",  
+      "jsx": "preserve",
+      "jsxFactory": "h",
+      "jsxFragmentFactory": "Fragment"
+  }
+}
