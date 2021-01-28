@@ -3,5 +3,9 @@
 	"version": "0.0.1",
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
-	"repository": "arnaud-zad/tsconfig"
+	"repository": "arnaud-zad/tsconfig",
+	"files": [
+		"node12.json",
+		"preact.json"
+	]
 }
