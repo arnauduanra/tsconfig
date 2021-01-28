@@ -1,5 +1,5 @@
 {
-	"name": "arnaud-zad/tsconfig",
+	"name": "@arnauduanra/tsconfig",
 	"version": "0.0.1",
 	"description": "Shared TypeScript config for my projects",
 	"license": "MIT",
