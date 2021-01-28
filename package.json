@@ -1,0 +1,7 @@
+{
+	"name": "arnaud-zad/tsconfig",
+	"version": "0.0.1",
+	"description": "Shared TypeScript config for my projects",
+	"license": "MIT",
+	"repository": "arnaud-zad/tsconfig"
+}
